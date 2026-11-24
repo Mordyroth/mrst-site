@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrst.co/sitemap.xml
